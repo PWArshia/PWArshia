@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PWArshia/PWArshia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/hero.svg" width="900" alt="Ember Command profile banner" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/signal.svg" width="900" alt="Ember Command GitHub telemetry" />
+
+<br><br>
+
+<a href="https://github.com/PWArshia"><img src="https://img.shields.io/badge/OPEN_GITHUB-ff8a1f?style=for-the-badge&logo=github&logoColor=fff4e6&labelColor=171012" alt="GitHub" /></a>
+
+
+<br>
+
+<sub><strong>EMBER COMMAND</strong> · original profile system · generated from GitHub public data</sub>
+
+</div>
+
+---
+
+### Deploy this style
+
+Everything required to customize and install this profile is in [SETUP.md](./SETUP.md). The artwork is generated locally, uses no paid API, and does not depend on a third-party stats-card service.
